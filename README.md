@@ -8,8 +8,8 @@ THIS IS AN ASSIGNMENT COMPLETED UNDER SKILL INDIA INTERNSHIP BY ELITE TECHNO GRO
 ---
 
 
-# Project Under: SKILL INDIA INTERNSHIP
-# Provided By: ELITE TECHNO GROUP
+# Project Under: Skill India Internship
+# Provided By: Elite Techno Group
 
 ---
 
